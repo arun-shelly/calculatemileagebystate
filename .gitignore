@@ -481,5 +481,5 @@ $RECYCLE.BIN/
 # Vim temporary swap files
 *.swp
 
-.\Data\Output\*.*
+./Data/Output/*.*
 build.md
